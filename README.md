@@ -3,7 +3,7 @@
 ### GenAI Engineer | Building Production AI Systems
 
 🔭 I build production-grade GenAI apps with LangChain, LangGraph, RAG & Multi-Agent systems
-🌍 Based in India | Open to Bengaluru / Remote opportunities
+🌍 Based in India | Open to Work - Hybrid + Remote opportunities
 
 ---
 
