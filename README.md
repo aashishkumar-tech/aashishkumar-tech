@@ -1,6 +1,6 @@
 # Hi, I'm Aashish Kumar 👋
 
-### GenAI Engineer | Building Production AI Systems
+### AI Engineer | Building Production AI Systems
 
 🔭 I build production-grade GenAI apps with LangChain, LangGraph, RAG & Multi-Agent systems
 🌍 Based in India | Open to Work - Hybrid + Remote opportunities
