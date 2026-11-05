@@ -38,5 +38,5 @@
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aashish-kumar-136a95236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aashish-kumar-tech)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:aashishkumar71013@gmmail.com)
